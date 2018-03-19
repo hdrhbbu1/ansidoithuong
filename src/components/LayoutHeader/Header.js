@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Cuộc đời người tu
+            Ẩn sỉ đời thường
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Người tu hành khổ hạnh"
+            title="Ẩn sỉ đời thường"
             to="/blog/"
           />
         </nav>

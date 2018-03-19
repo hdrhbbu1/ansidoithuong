@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Cuộc đời người tu',
-    siteUrl: 'http://cuocdoinguoitu.com',
-    rssFeedTitle: 'cuocdoinguoitu',
-    rssFeedDescription: 'Đoàn Bình và Cuộc đời người tu',
+    title: 'Ẩn sỉ đời thường',
+    siteUrl: 'http://ansidoithuong.net/',
+    rssFeedTitle: 'ansidoithuong',
+    rssFeedDescription: 'Đoàn Bình và Ẩn sỉ đời thường',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
